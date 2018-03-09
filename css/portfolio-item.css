@@ -7,9 +7,16 @@
 body {
   padding-top: 54px;
 }
+h3.titulo{
+    text-align: center;
+}
+
 
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
   }
+  
 }
+
+
